@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633740801 source:c:\users\a9133444\onedrive - amcor\si\alg2\arena\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
